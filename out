@@ -1,0 +1,36 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Course Name: Data Structures
+Section    : A
+Capacity   : 8
+#ofStudents: 6
+---------Student List------------
+1. Peter Jones
+2. Brian Smith
+3. Anne Kennedy
+4. Ahmad Nas
+5. Steve Smith
+6. Khan Tran
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Course Name: Data Structures
+Section    : B
+Capacity   : 10
+#ofStudents: 2
+---------Student List------------
+1. Ahmad Nas
+2. Steve Smith
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Course Name: Database Systems
+Section    : C
+Capacity   : 10
+#ofStudents: 3
+---------Student List------------
+1. Ahmad Nas
+2. Steve Smith
+3. Ali Wattson
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Course Name: Computer Network
+Section    : C
+Capacity   : 10
+#ofStudents: 0
+---------Student List------------
+(no students to list)
